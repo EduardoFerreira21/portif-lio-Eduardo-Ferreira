@@ -243,14 +243,14 @@ font-size: 60px;
 
 .botao5{
     background-color: rgb(57, 148, 116);
-    color: rgb(157, 25, 25);
+    color: rgb(0, 37, 184);
     width: 595px;
     height: 100px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid rgb(79, 105, 61);
+    border: 2px solid rgb(0, 37, 184);
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
