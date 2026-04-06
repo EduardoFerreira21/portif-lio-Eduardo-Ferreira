@@ -283,3 +283,13 @@ font-size: 60px;
     transform: translate(-50%, -50%);
     font-size: 60px;
     }
+
+    .imagem{
+        position: relative;
+        display: flex;
+        width: 300px;
+        height: 300px;
+        border-radius: 55px;
+        font-size: 36px;
+        padding: 50px 0;
+    }
