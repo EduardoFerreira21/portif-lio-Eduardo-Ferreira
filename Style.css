@@ -19,7 +19,9 @@ color: rgb(255, 255, 255);
 
 .cabecalho-menu {
     display: flex;
-    gap: 80px;
+    justify-content: center;
+    text-align: center;
+    gap: 500px;
 }
 
 .cabecalho-menu-links {
@@ -345,4 +347,25 @@ font-size: 60px;
 
 .imagem:hover{
     transform: scale(1.1);
+}
+
+.rodape{
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: aliceblue;
+    background-color: rgb(197, 45, 45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 20px;
+}
+
+.rodape a:hover{
+    color: rgb(0, 0, 0);
 }
